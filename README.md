@@ -1,2 +1,2 @@
 # SortedMatrix
-Practice exercise of Sorted Matrix in python
+Practing exercise of Sorted Matrix in python
